@@ -27,8 +27,11 @@ Has a clear objective
 
 ## References
 [Space Kit] https://www.kenney.nl/assets/space-kit
+
 [Blaster Kit] https://www.kenney.nl/assets/blaster-kit
+
 [Mossy Stone Texture] https://opengameart.org/content/paving-mossy-stones-seamless-texture-with-normalmap
+
 [Grass Texture] https://opengameart.org/content/tileable-grass-textures-set-1
 ## Future Development
 
