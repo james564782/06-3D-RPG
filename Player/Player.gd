@@ -43,9 +43,9 @@ func _physics_process(_delta):
 			target.damage(1)
 	
 	if global_transform.origin.y < -15 or Global.timer < 0:
-		get_tree().change_scene("res://UI/Game_Over.tscn")
+		var _scene = get_tree().change_scene("res://UI/Game_Over.tscn")
 	if get_node("/root/Game/Target_Container").get_child_count() == 0 and get_node("/root/Game/Drone_Container").get_child_count() == 0:
-		get_tree().change_scene("res://UI/Win_Screen.tscn")
+		var _scene = get_tree().change_scene("res://UI/Win_Screen.tscn")
 func _input(event):
 	if event is InputEventMouseMotion:
 		rotate_y(-event.relative.x * mouse_sensitivity)
