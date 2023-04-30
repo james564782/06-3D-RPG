@@ -33,6 +33,15 @@ Has a clear objective
 [Mossy Stone Texture] https://opengameart.org/content/paving-mossy-stones-seamless-texture-with-normalmap
 
 [Grass Texture] https://opengameart.org/content/tileable-grass-textures-set-1
+
+[Metal041A] https://ambientcg.com/view?id=Metal041A
+
+[Metal046A] https://ambientcg.com/view?id=Metal046A
+
+[Metal042A] https://ambientcg.com/view?id=Metal042A
+
+[Plastic010] https://ambientcg.com/view?id=Plastic010
+
 ## Future Development
 
 None
